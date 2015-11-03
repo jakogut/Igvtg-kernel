@@ -12,7 +12,7 @@
 #include <linux/ioctl.h>
 #include <asm/kvm.h>
 
-#define KVM_API_VERSION 12
+#define KVM_API_VERSION 100
 
 /* *** Deprecated interfaces *** */
 
